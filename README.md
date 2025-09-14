@@ -69,8 +69,8 @@ monorepo/
 ├── .github/           # GitHub workflows and templates
 ├── workspace/
 │   ├── mobile/       # React Native + Expo mobile app
-│   └── web/          # React + Vite web app
-├── shared/           # Shared code between applications
+│   ├── web/          # React + Vite web app
+│   └── shared/       # Shared code between applications
 ├── .gitignore        # Git ignore rules
 └── package.json      # Root package.json with shared scripts
 ```
