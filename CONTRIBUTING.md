@@ -17,7 +17,7 @@ This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDU
 
 ## Getting Started
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/your-username/mono-repo.git`
+2. Clone your fork: `git clone https://github.com/Himanshuch8055/mono-repo.git`
 3. Create a new branch: `git checkout -b feature/amazing-feature`
 4. Install dependencies: `yarn`
 5. Make your changes
