@@ -1,0 +1,17 @@
+{
+    "name": "shared",
+    "version": "1.0.0",
+    "main": "index.js",
+    "private": true,
+    "sideEffects": false,
+    "peerDependencies": {
+      "react": ">=18",
+      "react-dom": ">=18",
+      "react-native": ">=0.73",
+      "react-native-web": ">=0.19"
+    },
+    "peerDependenciesMeta": {
+      "react-dom": { "optional": true },
+      "react-native-web": { "optional": true }
+    }
+  }

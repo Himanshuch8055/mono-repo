@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@mobile/*": ["workspace/mobile/*"],
+            "@shared/*": ["workspace/shared/*"],
+            "@web/*": ["workspace/web/src/*"]
+        }
+    },
+    "exclude": ["node_modules", "build"]
+}

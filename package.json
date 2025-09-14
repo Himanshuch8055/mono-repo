@@ -1,0 +1,15 @@
+{
+  "name": "my-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspace/*"
+  ],
+  "scripts": {
+    "start:web": "yarn workspace web dev",
+    "start:mobile": "yarn workspace mobile start",
+    "build:web": "yarn workspace web build"
+  }
+}
